@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hsharma151197/natours#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
